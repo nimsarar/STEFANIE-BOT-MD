@@ -3,8 +3,8 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 White Shadow Bot Inc. stefanie Bot MD
-//Thank you to Mr.Chabby,
+//© 2022 NIMSARA MD Bot Inc. stefanie Bot MD
+//Thank you to NIMSARA.Md,
 //════════════════════════════//
 
 
